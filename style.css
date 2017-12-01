@@ -82,7 +82,7 @@ align-items: center;
 justify-content: center;
 }
 
-li{
+li.header{
 width: 270px;
   font-size:30px;
 text-align: center;
